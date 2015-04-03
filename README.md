@@ -6,5 +6,5 @@ It's a mirror of Android Event Injector on google code :  https://code.google.co
 
 Impression:
 
-![art1](https://github.com/Ryfthink/ImageBlur/blob/master/arts/snipper.jpg)
+![art1](https://github.com/Ryfthink/Android-Event-Injector/blob/master/art/img.jpg)
 
